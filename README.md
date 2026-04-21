@@ -21,10 +21,10 @@
 
 ## 🚀 Запуск програми
 1. Встановіть Python  
-2. Завантажте файл `reading_diary.py`  
+2. Завантажте файл `diary.py`  
 3. Запустіть у терміналі:
    ```bash
-   python reading_diary.py
+   python diary.py
 
 👩‍🎓 Автор
 
